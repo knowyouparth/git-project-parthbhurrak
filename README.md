@@ -18,3 +18,8 @@ I am a student at upgrad school of technology ,currently learning Git and GitHub
 ## Contact
 
 - Email: parthbhurrak12@gmail.com
+
+## Hobbies
+
+- gaming
+- listening music
